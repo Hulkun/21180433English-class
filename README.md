@@ -5,4 +5,4 @@ A *readme* **file**
 |班级|36
 |学号|21180433|
 
-link to [nextpage](21180433English-class/21180433.md)
+link to [nextpage](./21180433.md)
